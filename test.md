@@ -1,4 +1,4 @@
-![avatar](https://baike.baidu.com/tashuo/browse/content?id=7e0fcb27ade8eff4478d8da9&fr=qingtian&lemmaId=15870174)
+![avatar](https://imgsrc.baidu.com/baike/pic/item/b3b7d0a20cf431ad4245a8784036acaf2fdd98d8.jpg)
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
