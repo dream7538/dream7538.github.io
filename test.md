@@ -1,4 +1,4 @@
-![mahua](mahua-logo.jpg)
+![avatar](https://baike.baidu.com/tashuo/browse/content?id=7e0fcb27ade8eff4478d8da9&fr=qingtian&lemmaId=15870174)
 ##MaHua是什么?
 一个在线编辑markdown文档的编辑器
 
